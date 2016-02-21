@@ -1,0 +1,13 @@
+{
+    "name": "falsephp/falsephp",
+    "description": "The next big thing",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "FalsePHP",
+            "email": "false@example.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
